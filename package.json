@@ -1,0 +1,13 @@
+{
+  "name": "socket-card-game",
+  "author": {
+    "name": "James Echmalian"
+  },
+  "private": true,
+  "version": "0.0.1",
+  "description": "a socket.io card game engine",
+  "dependencies": {
+    "express": "^4.14.1",
+    "socket.io": "^1.7.3"
+  }
+}
